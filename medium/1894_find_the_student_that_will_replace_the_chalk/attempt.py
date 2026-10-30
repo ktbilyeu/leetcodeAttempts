@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-09-02
 ## 1894. Find the Student that Will Replace the Chalk (Medium)
 

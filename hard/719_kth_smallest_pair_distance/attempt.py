@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-08-14
 ## 719. Find K-th Smallest Pair Distance (Hard)
 

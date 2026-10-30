@@ -1,4 +1,4 @@
-## Bikatr7
+## ktbilyeu
 ## 2024-07-28
 ## 2045. Second Minimum Time to Reach Destination (Hard)
 

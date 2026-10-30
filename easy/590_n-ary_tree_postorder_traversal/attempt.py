@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-08-23
 ## 590. N-ary Tree Postorder Traversal (Easy)
 

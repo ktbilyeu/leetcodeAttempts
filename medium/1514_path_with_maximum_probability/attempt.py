@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-08-26
 ## 1514. Path with Maximum Probability (Medium)
 

@@ -1,5 +1,5 @@
 // Start of Selection
-// Kaden Bilyeu (Bikatr7)
+// Kaden Bilyeu (ktbilyeu)
 // 2024-09-16
 // 884. Uncommon Words from Two Sentences (Easy)
 //

@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-08-17
 ## 1937. Maximum Number of Points with Cost (Medium)
 

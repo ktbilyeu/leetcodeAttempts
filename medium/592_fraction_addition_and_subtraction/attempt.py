@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-08-22
 ## 592. Fraction Addition and Subtraction (Medium)
 

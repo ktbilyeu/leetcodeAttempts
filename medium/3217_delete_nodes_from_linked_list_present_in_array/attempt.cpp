@@ -1,4 +1,4 @@
-// Kaden Bilyeu (Bikatr7)
+// Kaden Bilyeu (ktbilyeu)
 // 2024-09-06
 // 3217. Delete Nodes From Linked List Present in Array (Medium)
 

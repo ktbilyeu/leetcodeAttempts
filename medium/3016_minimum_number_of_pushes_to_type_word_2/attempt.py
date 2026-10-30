@@ -1,4 +1,4 @@
-## Bikatr7
+## ktbilyeu
 ## 2024-08-06
 ## 3016. Minimum Number of Pushes to Type Word II (Medium)
 

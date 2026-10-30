@@ -1,4 +1,4 @@
-## Bikatr7
+## ktbilyeu
 ## 2024-07-25
 ## 912. Sort an Array (Medium)
 

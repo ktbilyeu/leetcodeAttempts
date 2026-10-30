@@ -1,5 +1,5 @@
 /**
- * Kaden Bilyeu (Bikatr7)
+ * Kaden Bilyeu (ktbilyeu)
  * 2024-08-27
  * 1905. Count Sub Islands (Medium)
  * 

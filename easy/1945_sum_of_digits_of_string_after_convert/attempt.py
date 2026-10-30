@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-09-03
 ## 1945. Sum of Digits of String After Convert (Easy)
 

@@ -1,4 +1,4 @@
-// Kaden Bilyeu (Bikatr7)
+// Kaden Bilyeu (ktbilyeu)
 // 2024-03-14
 // 1367. Linked List in Binary Tree (Medium)
 

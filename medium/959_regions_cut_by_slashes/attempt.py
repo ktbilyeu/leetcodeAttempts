@@ -1,4 +1,4 @@
-## Bikatr7
+## ktbilyeu
 ## 2024-08-10
 ## 959. Regions Cut By Slashes (Medium)
 

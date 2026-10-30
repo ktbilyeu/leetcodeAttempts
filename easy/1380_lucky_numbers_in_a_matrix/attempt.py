@@ -1,4 +1,4 @@
-## Bikatr7
+## ktbilyeu
 ## 2024-07-19
 ## 1380. Lucky Numbers in a Matrix (Easy)
 

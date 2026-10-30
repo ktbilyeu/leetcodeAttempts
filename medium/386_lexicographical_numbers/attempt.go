@@ -1,4 +1,4 @@
-// Kaden Bilyeu (Bikatr7)
+// Kaden Bilyeu (ktbilyeu)
 // 2024-09-20
 // 386. Lexicographical Numbers (Medium)
 

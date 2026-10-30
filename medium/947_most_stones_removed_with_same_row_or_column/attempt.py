@@ -1,4 +1,4 @@
-## Kaden Bilyeu (Bikatr7)
+## Kaden Bilyeu (ktbilyeu)
 ## 2024-08-28
 ## 947. Most Stones Removed with Same Row or Column (Medium)
 

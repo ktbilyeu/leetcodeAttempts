@@ -1,4 +1,4 @@
-## Bikatr7
+## ktbilyeu
 ## 2024-08-05
 ## 2053. Kth Distinct String in an Array (Easy)
 
